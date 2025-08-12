@@ -6,9 +6,9 @@ Develop a simple yet effective Python script that computes a user's Body Mass In
 ### 🛠️ How It Works
 Prompt the user to enter:
 
-Their weight in kilograms (kg)
+Their weight in kilograms (kg):
 
-Their height in meters (m)
+Their height in meters (m):
 
 Apply the BMI formula:
 
